@@ -1,2 +1,2 @@
 # test_repo
-A repo for testing thelink between my local Git and GitHub online
+A repo for testing the link between my local Git and GitHub online
